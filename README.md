@@ -13,7 +13,7 @@ pip3 install GPUtil
 export BASH_SCRIPT_PATH=/path/to/your_script.sh
 ```
 
-Make run.sh executable (only once):
+Make `run.sh` executable (only once):
 
 ```bash
 chmod +x run.sh
