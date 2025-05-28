@@ -52,3 +52,5 @@ Edit `run.sh` to change parameters:
 - `--user_email`-- Your email address (required)
 - `--user_email_password`-- Your email app password (required)
 - `--host_name`-- Hostname for notifications (default: localhost)
+
+> **Note:** For Gmail, you need to use an **app password** (not your regular email password). See [Google's guide](https://support.google.com/accounts/answer/185833)
